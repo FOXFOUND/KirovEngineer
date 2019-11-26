@@ -2,10 +2,10 @@
  *	this file is login.h
  */
 
-#ifndef _USERLOGIN_H_
-#define _USERLOGIN_H_
+#ifndef _MAINFRAME_H_
+#define _MAINFRAME_H_
 
-void USERLOGIN(){
+void MAINFRAME(){
 	GtkWidget *window;
 	GtkWidget *vbox;
 	GtkWidget *frame1,*frame2;
