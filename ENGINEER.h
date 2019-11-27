@@ -11,9 +11,9 @@
 
 #include<glib.h>
 #include<gtk/gtk.h>
-#include"E_frame/PublicTools.h"
-#include"E_frame/BackGround.h"
-#include"E_frame/MainFrame.h"
+
+void MAINFRAME();
+void NOTEBOOK();
 
 #endif 
 #undef _ENGINEER_INSIDE_
